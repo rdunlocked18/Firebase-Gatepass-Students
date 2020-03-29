@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gate Pass Students</string>
+    <string name="enter_proper_reason_for_gate_pass_access">Enter Proper Reason for Gate Pass Access</string>
+    <string name="get_uid">Get UID</string>
+    <string name="getroll">GetRoll</string>
+    <string name="getname">Getname</string>
+    <string name="sutaible_time">Suitable Time ?</string>
+</resources>

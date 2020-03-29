@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "341355594750",
+    "firebase_url": "https://gate-pass-78ac5.firebaseio.com",
+    "project_id": "gate-pass-78ac5",
+    "storage_bucket": "gate-pass-78ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341355594750:android:ffd127c2f3a481e1c176af",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341355594750-jb1a6k1mj7442d9fu98sbfotoo8qrakr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFExgEyY_eC6P35eJcA96NiJ7CCyoqATE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341355594750-jb1a6k1mj7442d9fu98sbfotoo8qrakr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341355594750:android:319b7209d3913b3ac176af",
+        "android_client_info": {
+          "package_name": "com.rohitdaf.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341355594750-fsagi64gea9t754rc6h2r5g3m2jlqhc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohitdaf.teacher",
+            "certificate_hash": "6f58e09a15e2a8c6301c76ace799c248e0ccb8de"
+          }
+        },
+        {
+          "client_id": "341355594750-jb1a6k1mj7442d9fu98sbfotoo8qrakr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFExgEyY_eC6P35eJcA96NiJ7CCyoqATE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341355594750-jb1a6k1mj7442d9fu98sbfotoo8qrakr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
